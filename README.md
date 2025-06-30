@@ -13,12 +13,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Habibur+Rahman+Zihad+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Architect+%E2%9A%A1;Open+Source+Enthusiast+%F0%9F%9A%80;Building+Digital+Dreams+%E2%9C%A8" alt="Typing Animation" />
 </h1>
 
-<!-- Glowing Status Badges -->
+<!-- 🌟 Glowing Status Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-00ff00?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=000000" />
+  <a href="https://habibur-rahman-zihad.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20Portfolio-Click%20Here-0abde3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio Badge" />
+  </a>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-ff6b6b?style=for-the-badge&logo=target&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Location-Chattogram%2C%20BD-4ecdc4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000" />
 </p>
+
 
 <!-- Matrix Rain Effect Divider -->
 <div align="center">
@@ -95,9 +98,7 @@ Transforming ideas into **scalable, high-performance web applications** that sol
 ## 🧠 Developer Insights & Contribution Metrics
 
 <!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HabiburRahmanZihad&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=HabiburRahmanZihad&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> </p>
 
 <p align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=HabiburRahmanZihad&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -326,13 +327,6 @@ Transforming ideas into **scalable, high-performance web applications** that sol
   </a>
 </div>
 
----
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=75&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=88&descSize=16" width="100%"/>
-</div>
-
 
 ---
 <div align="center">
@@ -340,4 +334,11 @@ Transforming ideas into **scalable, high-performance web applications** that sol
 <h3>⭐ Star this profile if you found it inspiring! ⭐</h3>
 <h3>🤝 Open to exciting opportunities and partnerships! 🤝</h3>
 <h3>💡 Together, we can build the web of tomorrow! 💡</h3>
+</div>
+
+---
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=75&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=88&descSize=16" width="100%"/>
 </div>
