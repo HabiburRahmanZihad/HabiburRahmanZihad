@@ -16,11 +16,14 @@
 <!-- 🌟 Glowing Status Badges -->
 <p align="center">
   <a href="https://habibur-rahman-zihad.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20Portfolio-Click%20Here-0abde3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/🚀%20Portfolio-Click%20Here-0abde3?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio Badge" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-ff6b6b?style=for-the-badge&logo=target&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Location-Chattogram%2C%20BD-4ecdc4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-ff6b6b?style=for-the-badge&logo=target&logoColor=white&labelColor=000000" alt="Focus Badge" />
+  <img src="https://komarev.com/ghpvc/?username=HabiburRahmanZihad&style=for-the-badge&color=ff79c6&labelColor=000000" alt="Profile Views Badge" />
+  <img src="https://img.shields.io/badge/Location-Chattogram%2C%20BD-4ecdc4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000" alt="Location Badge" /
 </p>
+
+
 
 
 <!-- Matrix Rain Effect Divider -->
@@ -260,7 +263,6 @@ Transforming ideas into **scalable, high-performance web applications** that sol
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HabiburRahmanZihad&style=for-the-badge&color=ff79c6&labelColor=000000" />
   <img src="https://img.shields.io/github/followers/HabiburRahmanZihad?style=for-the-badge&color=bd93f9&labelColor=000000&logo=github" />
   <img src="https://img.shields.io/github/stars/HabiburRahmanZihad?style=for-the-badge&color=ffb86c&labelColor=000000&logo=github" />
 </div>
