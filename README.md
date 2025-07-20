@@ -56,8 +56,8 @@ Transforming ideas into **scalable, high-performance web applications** that sol
 <td width="50%">
 
 ### 📈 **Current Focus**
-- 🛠️ Building a **Parcel Delivery Platform** with real-time tracking
-- 🎨 Mastering **modern React patterns** and state management
+- 🛠️ Building  **Many Attractive Platform** with real-time tracking
+- 🎨 Mastering **Nextjs patterns** and state management
 - 🔐 Contributing to **enterprise-grade private repositories**
 - 🌍 Active in **Open Source communities**
 
@@ -288,7 +288,7 @@ Transforming ideas into **scalable, high-performance web applications** that sol
 ### 🎓 **Education & Certifications**
 - 🏫 **University**: International Islamic University Chittagong
 - 📚 **Degree**: Computer Communication & Engineering
-- 🏆 **Certifications**: MERN Stack  loading.....
+- 🏆 **Certifications**: Full Stack  loading.....
 - 📈 **Continuous Learning**: Advanced React Patterns, System Design
 - 📖 **Relevant Coursework**: Data Structures, Algorithms, Database Systems, loading...
 
