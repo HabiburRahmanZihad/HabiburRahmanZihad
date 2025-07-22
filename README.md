@@ -225,7 +225,11 @@ Transforming ideas into **scalable, high-performance web applications** that sol
 
 <div align="center">
   <a href="https://github.com/HabiburRahmanZihad?tab=repositories">
-    <img src="https://img.shields.io/badge/🌟%20View%20All%20Projects-Explore%20Portfolio-ff79c6?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌟%20View%20All%20Projects-Explore%20on%20GitHub-ff79c6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br /><br />
+  <a href="https://habibur-rahman-zihad.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-Habibur%20Rahman%20Zihad-00b894?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
