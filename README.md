@@ -142,9 +142,9 @@ Transforming ideas into **scalable, high-performance web applications** that sol
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=20&height=80&section=header&text=PROJECT%20SHOWCASE&fontSize=25&fontColor=fff" width="100%"/>
 </div>
 
-<table>
-<tr>
-<td width="50%">
+<table align="center">
+<tr >
+<td width="50%" >
 
 ### 📈 **TazaRate**
 [![TazaRate](https://img.shields.io/badge/🔗%20Repository-View%20Code-17a2b8?style=for-the-badge)](https://github.com/HabiburRahmanZihad/TazaRate)
@@ -199,6 +199,17 @@ Transforming ideas into **scalable, high-performance web applications** that sol
 <tr>
 <td width="50%">
 
+### ⚖️ **Bangladesh Law Web**
+[![Bangladesh Law](https://img.shields.io/badge/🔗%20Live%20Demo-Visit%20Site-28a745?style=for-the-badge)](https://github.com/HabiburRahmanZihad/Bangladesh-Law-Web)
+
+**Tech Stack**: `React` `Node.js` `MongoDB` `Express`
+- ⚖️ Comprehensive legal information portal
+- 🔍 Advanced law search and categorization
+- 📋 Legal document management
+
+</td>
+<td width="50%">
+
 ### 📰 **Dragon News Web**
 [![Dragon News](https://img.shields.io/badge/🔗%20Live%20App-Try%20Now-e1306c?style=for-the-badge)](https://github.com/HabiburRahmanZihad/Dragon-News-Web)
 
@@ -207,17 +218,6 @@ Transforming ideas into **scalable, high-performance web applications** that sol
 - 🔐 User authentication system
 - 📱 Responsive news reading experience
 - 🔥 Firebase integration for real-time data
-
-</td>
-<td width="50%">
-
-### ⚖️ **Bangladesh Law Web**
-[![Bangladesh Law](https://img.shields.io/badge/🔗%20Live%20Demo-Visit%20Site-28a745?style=for-the-badge)](https://github.com/HabiburRahmanZihad/Bangladesh-Law-Web)
-
-**Tech Stack**: `React` `Node.js` `MongoDB` `Express`
-- ⚖️ Comprehensive legal information portal
-- 🔍 Advanced law search and categorization
-- 📋 Legal document management
 
 </td>
 </tr>
