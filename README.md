@@ -146,6 +146,19 @@ Transforming ideas into **scalable, high-performance web applications** that sol
 <tr>
 <td width="50%">
 
+### 📈 **TazaRate**
+[![TazaRate](https://img.shields.io/badge/🔗%20Repository-View%20Code-17a2b8?style=for-the-badge)](https://github.com/HabiburRahmanZihad/TazaRate)
+
+**Tech Stack**: `React` `Node.js` `MongoDB` `Express` `Recharts`  
+- 🛒 Live local market price tracking platform  
+- 👥 Roles for vendors, admins, and users  
+- 📊 Dynamic price trend charts  
+- 🧾 Vendor submissions with admin moderation  
+- 📢 Ad management and dashboard analytics
+
+</td>
+<td width="50%">
+
 ### 📚 **ReadRack**
 [![ReadRack](https://img.shields.io/badge/🔗%20Live%20Demo-Visit%20Site-ff6b6b?style=for-the-badge)](https://github.com/HabiburRahmanZihad/ReadRack)
 
@@ -156,6 +169,8 @@ Transforming ideas into **scalable, high-performance web applications** that sol
 - ⭐ Book reviews and rating system
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### ✅ **SnapTasker**
@@ -168,8 +183,6 @@ Transforming ideas into **scalable, high-performance web applications** that sol
 - ⚡ Instant synchronization
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 💼 **Job Nest Web**
@@ -182,6 +195,8 @@ Transforming ideas into **scalable, high-performance web applications** that sol
 - 🔔 Job alert notifications
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📰 **Dragon News Web**
@@ -194,8 +209,6 @@ Transforming ideas into **scalable, high-performance web applications** that sol
 - 🔥 Firebase integration for real-time data
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### ⚖️ **Bangladesh Law Web**
@@ -205,19 +218,6 @@ Transforming ideas into **scalable, high-performance web applications** that sol
 - ⚖️ Comprehensive legal information portal
 - 🔍 Advanced law search and categorization
 - 📋 Legal document management
-- 👨‍⚖️ Lawyer directory and consultation
-
-</td>
-<td width="50%">
-
-### 🎨 **Auction Gallery Web**
-[![Auction Gallery](https://img.shields.io/badge/🔗%20Repository-View%20Code-ffc107?style=for-the-badge)](https://github.com/HabiburRahmanZihad/auction-gallery-web)
-
-**Tech Stack**: `React` `Node.js` `Socket.IO` `Stripe`
-- 🎨 Real-time auction bidding system
-- 🖼️ Art gallery with image uploads
-- 💰 Secure payment integration
-- ⏰ Live auction timer and notifications
 
 </td>
 </tr>
