@@ -321,11 +321,11 @@ Transforming ideas into **scalable, high-performance web applications** that sol
 
 ## 📊 **Repository Highlights**
 <div align="center">
+    <a href="https://github.com/HabiburRahmanZihad/TazaRate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabiburRahmanZihad&repo=TazaRate&theme=synthwave&hide_border=true&border_radius=15" />
+  </a>
   <a href="https://github.com/HabiburRahmanZihad/ReadRack">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabiburRahmanZihad&repo=ReadRack&theme=synthwave&hide_border=true&border_radius=15" />
-  </a>
-  <a href="https://github.com/HabiburRahmanZihad/SnapTasker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabiburRahmanZihad&repo=SnapTasker&theme=synthwave&hide_border=true&border_radius=15" />
   </a>
 </div>
 
