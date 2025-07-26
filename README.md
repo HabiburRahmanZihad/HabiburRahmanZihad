@@ -4,9 +4,9 @@
 </div>
 
 <!-- Holographic Profile Picture with Glow Effect -->
-<div align="center">
-  <img src="https://github.com/HabiburRahmanZihad.png" alt="Habibur Rahman Zihad" width="200" style="border-radius: 50%; border: 4px solid #58A6FF; box-shadow: 0 0 30px #58A6FF;" />
-</div>
+<p align="center">
+  <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
+</p>
 
 <!-- Dynamic Typing Animation -->
 <h1 align="center">
